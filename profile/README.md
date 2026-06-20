@@ -44,4 +44,4 @@ Interested in collaborating or need help with cloud and software automation?
 * 🌐 **Official Website:** [eggpro.net](https://eggpro.net)
 * 📧 **Email:** [info@eggpro.net](mailto:info@eggpro.net)
 * 📞 **Phone:** +1 (470) 397-0673
-* 👥 **GitHub Maintainer:** [Aleksandr Andreichenko](https://github.com/Andreichenko)
+
