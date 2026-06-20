@@ -2,6 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9F43,100:FFC260&height=220&section=header&text=EggPro&fontSize=50&fontColor=1c1b29&animation=fadeIn" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://eggpro.net">
+    <img src="https://img.shields.io/badge/Website-eggpro.net-FF9F43?style=for-the-badge&logo=google-chrome&logoColor=1c1b29" alt="Website" />
+  </a>
+  <a href="mailto:info@eggpro.net">
+    <img src="https://img.shields.io/badge/Email-info%40eggpro.net-FFC260?style=for-the-badge&logo=gmail&logoColor=1c1b29" alt="Email" />
+  </a>
+</p>
+
 ---
 
 ### 🥚 Welcome to EggPro
@@ -29,7 +38,10 @@
 
 ---
 
-### 📬 Get in Touch
+### 📬 Contact Us
 
 Interested in collaborating or need help with cloud and software automation?
-* 📧 Reach out via **[Andreichenko's Profile](https://github.com/Andreichenko)** or contact the maintainers.
+* 🌐 **Official Website:** [eggpro.net](https://eggpro.net)
+* 📧 **Email:** [info@eggpro.net](mailto:info@eggpro.net)
+* 📞 **Phone:** +1 (470) 397-0673
+* 👥 **GitHub Maintainer:** [Aleksandr Andreichenko](https://github.com/Andreichenko)
